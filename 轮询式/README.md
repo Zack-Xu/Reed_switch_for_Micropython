@@ -1,4 +1,4 @@
-Reed_switch demo for micropython(ESP8266) polling type
+# Reed_switch demo for micropython(ESP8266) polling type
 
 当使用ampy方式将代码上传到Micropython中，你需要修改flash.bat中COM的端口号(windows系统下)
 
